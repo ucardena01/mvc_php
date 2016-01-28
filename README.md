@@ -1,2 +1,2 @@
-# mvc_php
-proyecto de prueba
+# PHP con MVC
+Esto es un proyecto de prueba
